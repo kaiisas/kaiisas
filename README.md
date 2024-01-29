@@ -1,5 +1,5 @@
 # ```spotify```
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317zkbi2yoai33i22pcbghvrb6mq&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=3939cc&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317zkbi2yoai33i22pcbghvrb6mq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bo2l2obkq1z0yf93r5wgb448o&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=0000ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bo2l2obkq1z0yf93r5wgb448o&redirect=true)
 
 <!--
 **kaiisas/kaiisas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
