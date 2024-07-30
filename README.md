@@ -1,5 +1,3 @@
-# ```spotify```
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bo2l2obkq1z0yf93r5wgb448o&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=0000ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bo2l2obkq1z0yf93r5wgb448o&redirect=true)
 
 ## Join Group WhatsApp 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HK5qN6m0j3hBrg6L1N5AkI)
